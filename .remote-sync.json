@@ -1,0 +1,18 @@
+{
+  "logger": {
+    "title": "Remote Sync"
+  },
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "remote.cs.binghamton.edu",
+  "target": "cs240/program1",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "gryu1",
+  "password": "Rhffldkt12!",
+  "watch": [],
+  "transport": "scp"
+}
